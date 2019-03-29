@@ -1,0 +1,8 @@
+Monte Carlo Simulation - The game of CRAPS 
+ 
+ 
+The gambling game known as “Craps” provides a Monte Carlo simulation application. The game involves tossing a pair of fair dice one or more times and observing the total number of spots showing on the up faces. If a 7 or 11 is tossed on the first roll, the player wins immediately. If a 2, 3, or 12 is tossed on the first roll, the player loses immediately. If any other number is tossed on the first roll, this number is called the “point”. The dice are rolled repeatedly until the point is tossed (and the player wins) or a 7 is tossed (and the player loses). Analytically, the probability of winning a game of CRAPS is 0.4929. You will have to use Monte Carlo Simulation to estimate this probability. 
+ 
+ 
+Write a program that simulates the game of CRAPS  ?N ?
+ times and estimate the probability of winning. For example, out of N times, the simulation found ?x ? wins. The estimation of winning probability will be ?x/N .
